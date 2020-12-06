@@ -10,7 +10,7 @@ body {
 	padding: 0;
 	margin: 0;
 	background: #FFF;
-	font-family: 'Shabnam', sans-serif;
+	font-family: 'shabnam', sans-serif;
 }
 body a {
 	transition: 0.5s all;
@@ -36,12 +36,12 @@ input[type="button"], input[type="submit"] {
 h1, h2, h3, h4, h5, h6 {
 	margin: 0;
 	padding: 0;
-	font-family: 'Amita', cursive;
+	font-family: 'shabnam', cursive;
 }
 p {
 	margin: 0;
 	font-size:1em;
-	font-family: 'Ubuntu', sans-serif;
+	font-family: 'shabnam', sans-serif;
 }
 ul {
 	margin: 0;
@@ -93,7 +93,7 @@ ul.address li ul.agileits-address-text li {
     color:rgba(255, 255, 255, 0.76);
     margin-top: 1em;
     font-weight: 600;
-    font-family: 'Text Me One', sans-serif;
+    font-family: 'shabnam', sans-serif;
 }
 ul.address li ul.agileits-address-text li:nth-child(1) {
     width: 20%;
@@ -121,7 +121,7 @@ ul.agileits-address-text li a {
     font-weight: 600;
     text-transform: uppercase;
         letter-spacing:1px;
-   font-family: 'Raleway', sans-serif;
+   font-family: 'shabnam', sans-serif;
 }
 .w3-banner-img p {
     color: #ffc53e;
@@ -134,7 +134,7 @@ ul.agileits-address-text li a {
   font-size: 3em;
     color: #fff;
     letter-spacing: 2px;
-    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-family: 'shabnam', sans-serif;
 }
 .w3-banner-grid-right p {
     color:#c5c2c2;
@@ -384,7 +384,7 @@ li.agile-it-adress-left b {
     text-align: center;
     font-size: 1.1em;
     font-weight: 300;
-    font-family:'Montserrat', sans-serif;
+    font-family:'shabnam', sans-serif;
 }
 .cd-stretchy-nav.edit-content ul span::after {
   /* triangle below the tooltip */
@@ -583,7 +583,7 @@ li.agile-it-adress-left b {
     font-size: 2em;
     text-transform: capitalize;
     letter-spacing: 2px;
-    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-family: 'shabnam', sans-serif;
 }
 .w3-about-grid-right1 p {
     line-height: 1.8em;
@@ -596,7 +596,7 @@ li.agile-it-adress-left b {
     color:#00bcd4;
 	text-transform: capitalize;
 	    letter-spacing: 2px;
-    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-family: 'shabnam', sans-serif;
 }
 .w3-about-grid-small-border {
     border: 1px solid #ffb900;
@@ -612,7 +612,7 @@ li.agile-it-adress-left b {
        color: #fdac14;
     font-size: 2em;
     text-transform: capitalize;
-    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-family: 'shabnam', sans-serif;
     letter-spacing: 2px;
 }
 .w3-about-grid-left2 p {
@@ -628,7 +628,7 @@ li.agile-it-adress-left b {
     letter-spacing: 2px;
     font-size: 1.5em;
     margin: 2em 0 0 0;
-    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-family: 'shabnam', sans-serif;
 }
 .w3-about-grid-left2 {
     margin: 7em 0 0 0;
@@ -655,7 +655,7 @@ h3.w3-head-project {
 	text-align:center;
 	text-transform:uppercase;
 	letter-spacing: 2px;
-        font-family: 'Poppins', sans-serif;
+        font-family: 'shabnam', sans-serif;
 }
 /*-- education and experience --*/
 .w3-edu-top {
@@ -668,7 +668,7 @@ h3.w3-head-project {
     text-transform: capitalize;
     margin-bottom: 25px;
     letter-spacing: 2px;
-    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-family: 'shabnam', sans-serif;
 }
 .w3-edu-info2 span {
     margin-left: 1.5em;
@@ -684,12 +684,12 @@ h3.w3-head-project {
     text-transform: capitalize;
     color: #dcad3f;
 	letter-spacing: 2px;
-    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-family: 'shabnam', sans-serif;
 }
 .w3-edu-grid-header h3 {
        color: #00bcd4;
     font-size: 3em;
-        font-family: 'Poppins', sans-serif;
+        font-family: 'shabnam', sans-serif;
 	
 }
 .w3-edu-info-right2 h3 {
@@ -698,7 +698,7 @@ h3.w3-head-project {
     text-transform: capitalize;
     margin-bottom: 25px;
     letter-spacing: 2px;
-    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-family: 'shabnam', sans-serif;
 }
 .w3-edu-info-right1 h3 {
     color: #fff;
@@ -709,7 +709,7 @@ h3.w3-head-project {
     color:#dcad3f;
 	text-transform:capitalize;
 	letter-spacing: 2px;
-    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-family: 'shabnam', sans-serif;
 }
 .w3-edu-info2 p {
     color: #8a8a8a;
@@ -861,7 +861,7 @@ background: linear-gradient(to right, #E684AE, #79CBCA, #77A1D3); /* W3C, IE 10+
     padding: 0px 23px 9px;
     font-size: 18px;
     margin: 0 0.4em;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'shabnam', sans-serif;
     letter-spacing: 1px;
 	transition:0.5s all;
 	-webkit-transition:0.5s all;
@@ -1032,7 +1032,7 @@ a.agile-its-property-title {
     text-decoration: none;
     text-transform: uppercase;
     text-align: center;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'shabnam', sans-serif;
 }
 p.w3ls-p-text {
     text-align: center;
@@ -1645,7 +1645,7 @@ h4.modal-title {
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 2px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'shabnam', sans-serif;
 	}
 	.w3-edu-grid-header h3 {
     font-size: 3em;
